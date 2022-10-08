@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T14:42:53 IST" name="Default suite" finished-at="2022-10-01T14:42:53 IST" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T14:42:53 IST" name="Default test" finished-at="2022-10-01T14:42:53 IST" duration-ms="44">
+      <class name="com.testng.features.Soft_Assert_Annotations">
+        <test-method signature="soft()[pri:0, instance:com.testng.features.Soft_Assert_Annotations@c333c60]" started-at="2022-10-01T14:42:53 IST" name="soft" finished-at="2022-10-01T14:42:53 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soft -->
+      </class> <!-- com.testng.features.Soft_Assert_Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
